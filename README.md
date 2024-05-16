@@ -12,9 +12,10 @@ including input from sensors, output to devices and the app, calculation of step
 calculating the steady state of the accelerometer, and more.
 
 # FitnessTrackerWemosCode.ino
-This is the main code for the tracker. You must be able to connect to a local Wifi to use
+This is the main code for the tracker. You must be able to connect to the Blynk app through a local Wifi to use.
 
-# FitnessTrackerWemoseCode.ino
+# FitnessTrackerWemoseCodeNoBlynk.ino
+This is backup code that has all of the functions except for connecting to the Blynk App through Wifi. I made this so that I could use the fitness tracker outside of the lab.
 
 # Design Video
 Here is the link to a video that one of my teammates made that shows our design process: https://www.youtube.com/watch?v=Adl9SaT-O24
