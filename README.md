@@ -11,7 +11,10 @@ My main focus in the project was the C++ programing. I wrote all of the logic fo
 including input from sensors, output to devices and the app, calculation of steps and flights,
 calculating the steady state of the accelerometer, and more.
 
-# 
+# FitnessTrackerWemosCode.ino
+This is the main code for the tracker. You must be able to connect to a local Wifi to use
+
+# FitnessTrackerWemoseCode.ino
 
 # Design Video
 Here is the link to a video that one of my teammates made that shows our design process: https://www.youtube.com/watch?v=Adl9SaT-O24
